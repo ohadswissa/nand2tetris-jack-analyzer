@@ -1,4 +1,4 @@
-# Jack Analyzer – Nand2Tetris Project 10
+# Jack Analyzer - Nand2Tetris Project 10
 
 This project is part of the [Nand2Tetris](https://www.nand2tetris.org/) course.  
 It implements a two-stage syntax analyzer for the Jack programming language using Java.
